@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hkmiyj
-- 👀 I’m interested in web development, iot and app development
+- 👀 I’m interested in web development, app development and also IOT
 - 🌱 I’m currently learning CSS, HTML, Javascript and some frameworks
 
 <!---
