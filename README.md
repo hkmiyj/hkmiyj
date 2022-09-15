@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hkmiyj
-- 👀 I’m interested in web development, app development and also IOT
-- 🌱 I’m currently learning CSS, HTML, Javascript and some frameworks
+- 👀 Computer Science in UPM Malaysia
 
 <!---
 hkmiyj/hkmiyj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
