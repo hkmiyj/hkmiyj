@@ -1,2 +1,3 @@
-![](https://komarev.com/ghpvc/?username=hkmiyj)
-I Like to explore things
+Stuff I know: Java, Angular, JS/TS, Flutter
+
+Looking for opportunities for growth :)
