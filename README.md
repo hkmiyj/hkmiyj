@@ -1,3 +1,3 @@
-Stuff I know: Java, Angular, JS/TS, Flutter
+Java, Angular, Springboot, Flutter and Devops stuff
 
 Looking for opportunities to growth :)
